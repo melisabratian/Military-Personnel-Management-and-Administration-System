@@ -1,0 +1,56 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+
+h1 {
+    font-family: Verdana, sans-serif;
+    color: red;
+    font-size: 24px; 
+}
+
+
+p, td, th, label {
+    font-family: Arial, sans-serif;
+    font-size: 14px; 
+}
+
+
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: orange;
+    text-decoration: underline;
+}
+
+a:active {
+    color: green;
+}
+
+
+.footer-container {
+    background-image: url("../images/background_footer.png");
+    background-size: cover;
+    background-position: center;
+    height: 60px;
+    margin-top: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-content h4 {
+    margin: 0;
+    font-size: 16px;
+}
