@@ -1,0 +1,6 @@
+XAMPP (or WAMP/MAMP)
+PHP 8.x
+MySQL / MariaDB
+Apache Server
+phpMyAdmin
+A web browser
