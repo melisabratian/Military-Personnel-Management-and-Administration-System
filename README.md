@@ -277,8 +277,9 @@ project/
 │ ├── mark_task_done.php
 │ └── equipment_return.php
 │
-└── database/
-military_unit.sql
+|── database/military_unit.sql
+|
+└── requirements.txt
 ```
 ## How to Run the Project
 
