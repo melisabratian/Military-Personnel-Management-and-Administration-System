@@ -280,6 +280,15 @@ project/
 └── database/
 military_unit.sql
 ```
+## How to Run the Project
+
+1. Install XAMPP.
+2. Start Apache and MySQL.
+3. Import the database `military_unit.sql` in phpMyAdmin.
+4. Place the project folder in `xampp/htdocs`.
+5. Open the browser and go to:
+
+http://localhost/project/index.php
 
 # Academic Context
 
